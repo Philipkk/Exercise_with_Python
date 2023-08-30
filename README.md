@@ -5,5 +5,5 @@
 ### Table of Contents:
 
 * [ETL with Python](URL)
-* [note](URL)
+* [Statistics_with_Python](URL)
 * [note](URL)
